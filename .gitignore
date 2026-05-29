@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+.env.local
+*.mp3
+temp_audio_*
